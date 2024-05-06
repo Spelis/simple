@@ -1,7 +1,6 @@
 import requests
 import json
 import argparse
-import webbrowser
 parser = argparse.ArgumentParser('GeoLocator', description='Gives location info from an IP address')
 parser.add_argument('address', nargs='?', default='')
 args = parser.parse_args()
