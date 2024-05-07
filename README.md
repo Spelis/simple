@@ -13,4 +13,4 @@ Gives info about someone's location based on their IP address
 Simple CPS test
 
 ## imgsorter: (38 lines)
-Sorts images into separate directories by average color code converted to 64 colors
+Sorts images into separate directories by average color code converted to 32 colors
